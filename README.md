@@ -17,6 +17,13 @@ Many travelers struggle with using public devices abroad due to unfamiliar inter
 - Similarity Calculation and Contextual Guidance
 - Instructional pop-up interface with tkinter
 
+## Simulation
+The following video demonstrates how the Daily Decoder application recognizes real-world systems and provides step-by-step guidance to the user:
+
+[Watch the simulation video](simulation/Simulation.mp4)
+
+
+
 ## Technologies Used
 
 - Python
